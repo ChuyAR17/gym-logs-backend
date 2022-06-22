@@ -4,6 +4,7 @@
   "description": "Express API.",
   "main": "index.js",
   "scripts": {
+    "build": "node app",
     "dev": "nodemon app"
   },
   "repository": {
